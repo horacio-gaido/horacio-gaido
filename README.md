@@ -1,15 +1,12 @@
 ## *Hello* 👋
---------------------------------------------------------------------------------------------------------------------------------
 My name is Horacio, I'm from Argentina.
 
 ### **Skills**
 --------------------------------------------------------------------------------------------------------------------------------
 
-Special skills and experience in Business Administration, Controller and Business Intelligence.
-
-Critical thinking, decision-making and problem solving skills.
-
-Excel, some Python coding, SQL and Tableau.
+- Special skills and experience in Business Administration, Controller and Business Intelligence.
+- Critical thinking, decision-making and problem solving skills.
+- Excel, some Python coding, SQL and Tableau.
 
 --------------------------------------------------------------------------------------------------------------------------------
 - 👀 I’m interested in Data Analytics, Data Science, Quantitative Finance and Business Administration.
