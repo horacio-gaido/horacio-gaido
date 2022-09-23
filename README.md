@@ -8,9 +8,9 @@ Bachelor of Business Administration (BBA) and Master of Business Administration 
 --------------------------------------------------------------------------------------------------------------------------------
 - 👀 I’m interested in Data Analytics, Data Science, Quantitative Finance and Business Administration.
 - 🌱 I’m currently learning Python, SQL, Tableau, Power BI and Backend in Python.
-<hr>
-
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="60"> 
+--------------------------------------------------------------------------------------------------------------------------------
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="60">
+  
   ## Skillset
   <p align="left">
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50" alt="Python" /></a>   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50" alt="HTML5" /></a>   <img loading="lazy" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" height="50">
@@ -18,6 +18,7 @@ Bachelor of Business Administration (BBA) and Master of Business Administration 
 
 ## Frameworks
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
+
 ## Relational Databases
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="50" height="50" alt="MySQL" />
   </a>
