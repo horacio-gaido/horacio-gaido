@@ -39,10 +39,10 @@ Bachelor of Business Administration (BBA) and Master of Business Administration 
 
 ## Bio
 - 🌎 I'm based in Argentina.
-- ⛰️ I love trekking!
+- ⛰️ I adore trekking, the Andes are my place in the world!
 - ✈️ I love to travel!
-- ☕️ I drink coffee and tea, especially enjoy a earl grey.
-- 🔊 I love listening many other kinds of music.
+- ☕️ I drink coffee and tea. I especially enjoy earl grey.
+- 🔊 I enjoy listening many kinds of music.
 
 
   > “Think of the life you have lived until now as over and, as a dead man, see what’s left as a bonus and live it according
