@@ -50,7 +50,7 @@ Bachelor of Business Administration (BBA) and Master of Business Administration 
   – **Marcus Aurelius**
 
 
-
+<footer>
 <h2 align="left">Contact me!</h2>
 <p align="left">
         </a> &nbsp;&nbsp;
@@ -62,3 +62,4 @@ Bachelor of Business Administration (BBA) and Master of Business Administration 
         <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
     height="36">
     </a> &nbsp;&nbsp;
+</footer>
