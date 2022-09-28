@@ -52,3 +52,5 @@ Bachelor of Business Administration (BBA) and Master of Business Administration 
 
 > “Think of the life you have lived until now as over and, as a dead man, see what’s left as a bonus and live it accordingto Nature. Love the hand that fate deals you and play it as your own, for what could be more fitting?”
 – **Marcus Aurelius**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C81B3D&vCenter=true&width=435&lines=Keep+it+simple!!!)](https://git.io/typing-svg)
