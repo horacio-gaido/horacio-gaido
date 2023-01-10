@@ -5,11 +5,11 @@ Bachelor of Business Administration (BBA) and Master of Business Administration 
 - Special skills and experience in Business Administration, Controller and Business Intelligence.
 - Critical thinking, decision-making and problem solving skills.
 - I love to program in Python.
-- Excel, SQL and Tableau.
+- Excel, SQL, Power BI and Tableau.
 
 --------------------------------------------------------------------------------------------------------------------------------
 - 👀 I’m interested in Data Analytics, Data Science, Quantitative Finance and Business Administration.
-- 🌱 I’m currently learning Python, SQL, Tableau, Power BI and Backend in Python.
+- 🌱 I’m currently learning Data Science and Backend in Python.
 --------------------------------------------------------------------------------------------------------------------------------
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="60" />
   
