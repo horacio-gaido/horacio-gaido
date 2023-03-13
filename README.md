@@ -1,5 +1,5 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+There!+I'm+Horacio+👋)](https://git.io/typing-svg)
-Bachelor of Business Administration (BBA) and Master of Business Administration (MBA)
+Bachelor of Business Administration (BBA), Master of Business Administration (MBA) and Data Intelligence in Management Diploma.
 ### **Skills**
 --------------------------------------------------------------------------------------------------------------------------------
 - Special skills and experience in Business Administration, Controller and Business Intelligence.
@@ -34,7 +34,7 @@ Bachelor of Business Administration (BBA) and Master of Business Administration 
 <a href="https://deepnote.com/" target="_blank" rel="noreferrer"> <img src= "https://img.shields.io/badge/Deepnote-F67726.svg?&style=for-the-badge&logo=Deepnote&logoColor=white" /> </a><a href="https://deepnote.com/" target="_blank" rel="noreferrer"> <img src= "https://img.shields.io/badge/excel-34A853.svg?&style=for-the-badge&logo=excel&logoColor=white" /> </a><a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src= "https://img.shields.io/badge/Tableau-%34A853.svg?style=for-the-badge&logo=Tableau&logoColor=white" /> </a><a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src= "https://img.shields.io/badge/powerbi-%34A853.svg?style=for-the-badge&logo=powerbi&logoColor=white" /> </a>
 ## Bio
 - 🌎 I'm based in Argentina.
-- ⛰️ I adore trekking, the Andes are my place in the world!
+- ⛰️ I adore running, trekking and rock climbing, the Andes are my place in the world!
 - ✈️ I love to travel!
 - ☕️ I drink coffee and tea. I especially enjoy earl grey.
 - 🔊 I enjoy listening many kinds of music.
