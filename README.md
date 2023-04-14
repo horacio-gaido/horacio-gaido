@@ -52,3 +52,7 @@ Bachelor of Business Administration (BBA), Master of Business Administration (MB
 – **Marcus Aurelius**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C81B3D&vCenter=true&width=435&lines=Keep+it+simple!!!)](https://git.io/typing-svg)
+
+
+
+![](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)
