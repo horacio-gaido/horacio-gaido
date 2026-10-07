@@ -1,58 +1,65 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+There!+I'm+Horacio+👋)](https://git.io/typing-svg)
-Bachelor of Business Administration (BBA), Master of Business Administration (MBA) and Data Intelligence in Management Diploma.
-### **Skills**
---------------------------------------------------------------------------------------------------------------------------------
-- Special skills and experience in Business Administration, Controller and Business Intelligence.
-- Critical thinking, decision-making and problem solving skills.
-- I love to program in Python.
-- Excel, SQL, Power BI and Tableau.
+# Horacio Gaido
 
---------------------------------------------------------------------------------------------------------------------------------
-- 👀 I’m interested in Data Analytics, Data Science, Quantitative Finance and Business Administration.
-- 🌱 I’m currently learning Data Science and Backend in Python.
---------------------------------------------------------------------------------------------------------------------------------
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="60" />
-  
-## Skillset
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50" alt="Python" /></a>   
+**Analista de Datos · Business Intelligence · Automatización de procesos**
 
+Mendoza, Argentina · Español | [English](https://github.com/horacio-gaido/horacio-gaido/blob/main/README.en.md)
 
-## Frameworks
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/> </a><a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/flask%20-%4090.svg?&style=for-the-badge&logo=flask&logoColor=white"/> </a><a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> </a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">  <img src= "https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> </a><a href="https://matplotlib.org/" target="_blank" rel="noreferrer">  <img src= "https://img.shields.io/badge/Matplotlib-4C2D72?style=for-the-badge&logo=Matplotlib&logoColor=white" /> </a><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/seaborn%20-%13000.svg?&style=for-the-badge&logo=seaborn&logoColor=white"/> </a>
+Soy analista de datos y Business Intelligence. Desde 2023 trabajo en Midas Consultores para YPF S.A., donde desarrollo procesos ETL con Python y SQL Server, tableros en Power BI y automatizaciones con Power Automate para el monitoreo de los servicios de TI a nivel nacional.
 
+Llegué a los datos después de más de 15 años en administración, finanzas y control de gestión. Esa base me permite entender las reglas de negocio que hay detrás de cada indicador y conversar tanto con usuarios funcionales como con equipos técnicos.
 
+## Qué hago
 
-## Relational Databases    |   NoSQL Databases
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="50" height="50" alt="MySQL" /> </a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="50" height="50" alt="PostgreSQL" /> </a>    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="50" height="50" alt="MongoDB" /> </a>
+- **Procesos ETL en Python.** Extracción, validación, transformación y carga con Pandas, NumPy y SQLAlchemy/pyodbc sobre SQL Server. Separo los registros válidos de los rechazados, con el motivo de cada rechazo, y mantengo la configuración en archivos JSON.
+- **Tableros en Power BI.** Relevamiento con los usuarios, modelado de datos, transformaciones en Power Query (lenguaje M), medidas en DAX y publicación en Power BI Service.
+- **Indicadores de servicio.** KPIs construidos a partir de tickets de ServiceNow y reportes separados por región.
+- **Automatización.** Flujos en Power Automate Cloud integrados con SharePoint, OneDrive y Outlook, tareas programadas de Windows, scripts de PowerShell y BAT, y Selenium.
+- **Calidad de datos y trazabilidad.** Controles y conciliaciones antes de distribuir resultados, logs de cada ejecución y documentación de las reglas aplicadas.
 
-## Styles   |    Version Control   |  Tools
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" height="50" alt="CSS3" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img loading="lazy" src="https://miro.medium.com/max/650/1*zzvdRmHGGXONZpuQ2FeqsQ.png" height="50">  </a> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img loading="lazy" src="https://distreau.com/github.svg" height="50"> </a> <a href="https://dev.w3.org/html5/spec-LC/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50" alt="HTML5" /> </a>  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img loading="lazy" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" height="50"></a>
+> Los desarrollos que hago para YPF S.A. son confidenciales y no se publican. Los repositorios de este perfil son trabajos académicos y proyectos personales con datos públicos.
 
-<a href="https://www.notion.so/product?utm_source=google&utm_campaign=2075789713&utm_medium=80211061801&utm_content=453572180157&utm_term=notion&targetid=aud-1223925334303:kwd-312974742&gclid=CjwKCAjw4c-ZBhAEEiwAZ105Rbt8Uwbk-82wbCq7dzaL_-LGSRDThu2eAsCADLeDMn0eHWLI8-H4TxoCX7wQAvD_BwE" target="_blank" rel="noreferrer"> <img src= "https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> </a><a href="https://docs.google.com/spreadsheets/" target="_blank" rel="noreferrer"> <img src= "https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" /> </a><a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src= "https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" /> </a><a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src= "https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> </a>
+## Stack
 
+| Área | Herramientas |
+| --- | --- |
+| Datos y programación | Python, Pandas, NumPy, SQL, SQLAlchemy, pyodbc, Matplotlib, Seaborn, Jupyter Notebook |
+| Business Intelligence | Power BI (Desktop y Service), Power Query (lenguaje M), DAX, modelado de datos, Tableau, Looker Studio, Excel avanzado |
+| Automatización y Microsoft 365 | Power Automate Cloud, SharePoint, OneDrive, Microsoft Lists, PowerShell, CMD y BAT, Programador de tareas de Windows, Selenium |
+| Bases de datos | SQL Server, PostgreSQL, Oracle Database |
+| Plataformas y herramientas | ServiceNow, Visual Studio Code, Anaconda, Git y GitHub |
+| Formación complementaria | scikit-learn, SciPy, NLTK, TensorFlow, Keras, R, FastAPI (cursos y trabajos académicos) |
 
-<a href="https://deepnote.com/" target="_blank" rel="noreferrer"> <img src= "https://img.shields.io/badge/Deepnote-F67726.svg?&style=for-the-badge&logo=Deepnote&logoColor=white" /> </a><a href="https://deepnote.com/" target="_blank" rel="noreferrer"> <img src= "https://img.shields.io/badge/excel-34A853.svg?&style=for-the-badge&logo=excel&logoColor=white" /> </a><a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src= "https://img.shields.io/badge/Tableau-%34A853.svg?style=for-the-badge&logo=Tableau&logoColor=white" /> </a><a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src= "https://img.shields.io/badge/powerbi-%34A853.svg?style=for-the-badge&logo=powerbi&logoColor=white" /> </a>
-## Bio
-- 🌎 I'm based in Argentina.
-- ⛰️ I adore running, trekking and rock climbing, the Andes are my place in the world!
-- ✈️ I love to travel!
-- ☕️ I drink coffee and tea. I especially enjoy earl grey.
-- 🔊 I enjoy listening many kinds of music.
+## Proyectos
 
-## Contact me!
+| Proyecto | De qué se trata | Links |
+| --- | --- | --- |
+| **Patrones y relaciones en un dataset de citas rápidas** | Análisis del experimento de citas rápidas de la Universidad de Columbia: preprocesamiento, análisis exploratorio, pruebas de hipótesis no paramétricas y modelos de Gradient Boosting y regresión logística Lasso. Trabajo final del Diplomado en Inteligencia de Datos (UNCuyo, 2023), en coautoría con Laureano Lorenzo. | [Repo](https://github.com/horacio-gaido/speed-dating-experiment) · [Informe](https://horacio-gaido.github.io/assets/pdf/citas_rapidas.pdf) |
+| **Las dimensiones de la calidad de vida** | Análisis de una encuesta sobre estilo de vida, hábitos y equilibrio entre trabajo y vida personal: estadística descriptiva, distribuciones y mapas de correlación. Diplomado en Inteligencia de Datos (UNCuyo, 2022). | [Repo](https://github.com/horacio-gaido/dimensions_of_quality_of_life) · [Informe](https://horacio-gaido.github.io/assets/pdf/las_dimensiones_de_la_calidad_de_vida.pdf) |
+| **Informe financiero sobre el CEDEAR de Berkshire Hathaway** | Reporte de análisis de inversión: contexto de mercado, análisis fundamental y análisis técnico. Diplomado en Mercado de Capitales (UNCuyo, 2021). | [Informe](https://horacio-gaido.github.io/assets/pdf/analisis_cedear_berkshire_hathaway.pdf) |
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/horacio-gaido)
-[<img src= "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://horacio-gaido.github.io/#)
+<!--
+PARA SUMAR MÁS ADELANTE: copiar la fila en la tabla de arriba cuando el repo esté publicado y tenga su propio README.
 
-## Stats
-[![Horacio GitHub stats](https://github-readme-stats.vercel.app/api?username=horacio-gaido)](https://github.com/horacio-gaido/github-readme-stats)
+| **Contado con liquidación (CCL) en Python** | Notebook sobre la operatoria de contado con liquidación. | [Repo](https://github.com/horacio-gaido/CCL-contado-con-liqui-python) |
+| **ETL con validación y trazabilidad** | Pipeline en Pandas con configuración JSON, registros rechazados con motivo, log de métricas y salida a Excel. Datos sintéticos. | [Repo](URL) |
+| **Indicadores de tickets por región** | KPIs de mesa de ayuda sobre un dataset ficticio, con un archivo de salida por región. | [Repo](URL) |
+| **Tablero de servicio en Power BI** | Modelo de datos, medidas DAX y capturas del tablero. | [Repo](URL) |
+-->
 
+## Formación
 
-> “Think of the life you have lived until now as over and, as a dead man, see what’s left as a bonus and live it accordingto Nature. Love the hand that fate deals you and play it as your own, for what could be more fitting?”
-– **Marcus Aurelius**
+- **Diplomado en Inteligencia de Datos en la Gestión de las Organizaciones.** Universidad Nacional de Cuyo (2022–2023)
+- **Master of Business Administration (MBA)**, orientación en proyectos. EUNCET Business School (2012–2014)
+- **Licenciado en Administración.** Universidad Nacional de Cuyo
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C81B3D&vCenter=true&width=435&lines=Keep+it+simple!!!)](https://git.io/typing-svg)
+La experiencia completa, la formación y las certificaciones están en [horacio-gaido.github.io](https://horacio-gaido.github.io/).
 
+## Fuera del trabajo
 
+Lectura, montañismo, escalada en roca y running.
 
-![](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)
+## Contacto
+
+- LinkedIn: [linkedin.com/in/horacio-gaido](https://www.linkedin.com/in/horacio-gaido)
+- Web: [horacio-gaido.github.io](https://horacio-gaido.github.io/)
+- Email: [horaciogaido@gmail.com](mailto:horaciogaido@gmail.com)
